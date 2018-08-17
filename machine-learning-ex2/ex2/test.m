@@ -1,2 +1,5 @@
-pkg load symbolic
-syms x;
+tic()
+
+pause(2)
+
+t = toc()
